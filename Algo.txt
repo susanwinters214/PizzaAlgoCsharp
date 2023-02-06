@@ -2,8 +2,13 @@ Steps for ordering a Pizza
 
 1. Choose the pizza place
 2. Choose your pizza
-3. Order and pay for the pizza 
+3. Choose your toppings
+3. Add pizza to cart
+4. Pay for the pizza 
+5. Wait for pizza to arrive
 
 * When the pizza arrives - EAT IT!
 
 # Cool stuff for Winters
+
+<!-- test -->
